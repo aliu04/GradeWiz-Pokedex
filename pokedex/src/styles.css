@@ -1,0 +1,66 @@
+body {
+  background-color: #bde0fe;
+}
+
+h1 {
+  color: #013a63;
+  font-family: arial, sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+h2 {
+  color: #013a63;
+  font-family: arial, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+p,
+li {
+  color: #013a63;
+  font-family: arial, sans-serif;
+  font-size: 15px;
+}
+
+button {
+  display: inline-block;
+  border: 0;
+  height: 30px;
+  padding: 6px 12px;
+  border-radius: 50px;
+  background-color: #89c2d9;
+  color: #014f86;
+  font-size: 13px;
+}
+
+input {
+  box-shadow: inset #abacaf 0 0 0 2px;
+  border: 0;
+  background: #bde0fe;
+  width: 50%;
+  padding: 5px 10px;
+  font-size: 14px;
+  height: 30px;
+  border-radius: 10px;
+
+}
+
+a {
+
+  text-decoration: none;
+  color: #89c2d9;
+}
+
+.poke-list {
+  list-style-type: none
+}
+
+.poke-list-elt {
+  display: inline-block;
+  border-radius: 5px;
+  background-color: #2a6f97;
+  margin: 5px;
+  font-size: 20px;
+  padding: 10px 20px;
+}
