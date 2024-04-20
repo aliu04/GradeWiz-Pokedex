@@ -1,5 +1,5 @@
 GradeWiz Pokedex
 
 To run: 
-`yarn`
+`yarn` \\
 `yarn dev`
